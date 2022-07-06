@@ -50,13 +50,13 @@
 //alert(yearsDriving + ' years driving')
 
 // STEP 07
-let varBoStr
-let varNumBol
-varBoStr = '5' + true
-varNumBol = 5 + true
+//let varBoStr
+//let varNumBol
+//varBoStr = '5' + true
+//varNumBol = 5 + true
 
-console.log(varBoStr)
-console.log(varNumBol)
+//console.log(varBoStr)
+//console.log(varNumBol)
 
 
 //STEP 08
@@ -82,21 +82,21 @@ console.log(varNumBol)
 //console.log(+bVarFalse)
 
 //STEP 11
-//let myName = 'Abdel Elizarraraz'
+//let myName = 'Abdel E.'
 //alert('Hello ' + myName + ' , welcome to the JavaScript class!')
 
 //STEP 12
-//let name = 'Abdel Elizarraraz'
+//let name = 'Abdel E.'
 //alert('Hello ' + myName + ' , welcome to the JavaScript class!')
 
 //STEP 13
-//let name = 'Abdel Elizarraraz'
+//let name = 'Abdel E.'
 //let course = 'JavaScript'
 //alert('Hello ' + name + ' , welcome to the ' + course + ' class!')
 
 
 //STEP 14
-//let name = 'Abdel Elizarraraz'
+//let name = 'Abdel E.'
 //let course = 'JavaScript'
 //alert('Hello ' + name + '.\nwelcome to the ' + course + ' class!')
 
