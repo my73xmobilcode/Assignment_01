@@ -52,6 +52,11 @@
 // STEP 07
 let varBoStr
 let varNumBol
+varBoStr = '5' + true
+varNumBol = 5 + true
+
+console.log(varBoStr)
+console.log(varNumBol)
 
 
 //STEP 08
